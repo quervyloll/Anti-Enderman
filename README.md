@@ -3,3 +3,6 @@ Simple mod that stops endermen from picking up blocks. Endermen just teleport ar
 
 ## Picture
 ![example](https://github.com/quervyloll/Anti-Enderman/blob/main/src/main/image.png)
+
+## Modrinth download
+If you don't trust the build for some reaosn, there's a modrinth page you can download it from [here](https://modrinth.com/mod/anti-enderman)
